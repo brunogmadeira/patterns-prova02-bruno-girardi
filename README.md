@@ -1,0 +1,1 @@
+# patterns-prova02-bruno-girardi
