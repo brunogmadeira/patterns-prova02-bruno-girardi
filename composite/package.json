@@ -1,0 +1,14 @@
+{
+  "name": "composite-example",
+  "version": "1.0.0",
+  "description": "Exemplos de Design Patterns em JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "problem": "node problem.js",
+    "asdf": "node practiceProblem.js"
+  },
+  "author": "Ugioni",
+  "license": "MIT"
+}
